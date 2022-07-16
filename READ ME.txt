@@ -1,0 +1,29 @@
+BEFORE RUNNING "YOUTUBE VIDEO DOWNLOADER" PROGRAM
+
+READ THE BELOW INSTRUCTIONS :
+
+----------------------------------------------------------------
+
+FOLLOWING PACKAGES MUST BE INSTALLED ON USERS PC :
+
+(1) MOVIEPY
+(2) PYTUBE
+
+IF NOT INSTALLED FOLLOW THESE INSTRUCTION :
+
+STEP1 : On Terminal type
+        pip install moviepy
+
+STEP2 : On Terminal type
+        pip install pytube
+
+----------------------------------------------------------------
+
+INSTRUCTIONS TO USE "YOUTUBE VIDEO DOWNLOADER" :
+
+(1) COPY the LINK of the video from YouTube that you want to download
+(2) PASTE that LINK in the text box
+(3) CLICK the "BROWSE PATH" button 
+(4) Select the folder in which you want to save the file
+(5) CLICK on "DOWNLOAD" button
+(6) Your file will be downloaded on the selected directory
